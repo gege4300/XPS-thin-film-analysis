@@ -5,6 +5,9 @@ To run this script,
 2. run xpsquanti.py with Python
 3. makesure that the reuired cross section is included in the cs folder. if not, add it manually.
 
+![image](https://user-images.githubusercontent.com/42301914/181014492-e485c7da-0bd1-4026-b2b9-e4601978ad31.png)
+
+
 current questions:
 1. XPS setup transmission function is not included. the current script only considers the cross section and the inelastic mean free path.
 2. angle dependent crosssection changes has not been included yet. current version is useful for magic angle experiment. 
