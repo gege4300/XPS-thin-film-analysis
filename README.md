@@ -4,3 +4,4 @@
 # 1. download all the files
 # 2. run xpsquanti.py with Python
 
+#current questions:
