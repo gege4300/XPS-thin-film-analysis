@@ -6,4 +6,5 @@ To run this script,
 3. makesure that the reuired cross section is included in the cs folder. if not, add it manually.
 
 current questions:
-1. XPS setup transmission function is not included. the current script only considers the cross section and the inelastic mean free path. to 
+1. XPS setup transmission function is not included. the current script only considers the cross section and the inelastic mean free path.
+2. angle dependent crosssection changes has not been included yet. current version is useful for magic angle experiment. 
