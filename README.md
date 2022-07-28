@@ -1,11 +1,11 @@
-xpsquanti
-XPSquanti is for XPS quantification. It is written in Python. 
+XPSquanti is for XPS quantification when one needs to calculate the atomic ratios. It is written in Python. 
 To run this script,
 1. download all the files
 2. run xpsquanti.py with Python
 3. makesure that the reuired cross section is included in the cs folder. if not, add it manually.
 
-![image](https://user-images.githubusercontent.com/42301914/181014492-e485c7da-0bd1-4026-b2b9-e4601978ad31.png)
+![image](https://user-images.githubusercontent.com/42301914/181449197-2cf4d7be-fdb8-4304-8ece-7b2288774291.png)
+
 
 
 current questions:
