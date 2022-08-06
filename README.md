@@ -1,13 +1,19 @@
-XPSquanti is for XPS quantification when one needs to calculate the atomic ratios. It is written in Python. 
+XPSquanti is for XPS quantification when one needs to calculate the atomic ratios and film thickness. It is written in Python. 
 To run this script,
 1. download all the files
 2. run xpsquanti.py with Python
-3. makesure that the reuired cross section is included in the cs folder. if not, add it manually.
+3. makesure that the reuired cross section in the cs folder is included in the cs folder. if not, add it manually.
 
-the following is a example of calculating the atomic ratio of C1s and N1s peaks. the IMFP is based on the simplified TPP-2M formua. one needs to 
+the following is an example of calculating the atomic ratio of C1s and N1s peaks. the IMFP is based on the simplified TPP-2M formua. one needs to 
 pay attention to the binding energy (BE1 and BE2 correspond to the binding energy of ele1 and ele2) of the elements. if the sample is a thin film, one also need to include the thickness of the thin film. Generally, one just need to follow the steps 1-4 and insert the values and models. then click calculate.
 
-![image](https://user-images.githubusercontent.com/42301914/181450516-be4ab76d-5842-4f9f-98b1-957354ea3e68.png)
+![image](https://user-images.githubusercontent.com/42301914/183249864-24e82ddc-f07b-4f38-950e-f1c5235c2f45.png)
+
+
+the following is an example of calculating the film thickness based on the model: thin film is on the bulk surface
+
+![image](https://user-images.githubusercontent.com/42301914/183249882-4217dd3b-3939-4b6a-b97a-bc81308506eb.png)
+
 
 
 
