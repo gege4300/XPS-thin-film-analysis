@@ -1,4 +1,5 @@
-XPSquanti is for XPS quantification when one needs to calculate the atomic ratios and film thickness. It is written in Python. 
+XPSquanti is for XPS quantification when one needs to calculate the atomic ratios and film thickness. It is written in Python. if you have any questions, please contact: wqk578539223@gmail.com
+
 To run this script,
 1. download all the files
 2. run xpsquanti.py with Python
