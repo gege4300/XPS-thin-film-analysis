@@ -1,4 +1,10 @@
-XPSquanti is for XPS quantification when one needs to calculate the atomic ratios and thin film related properties (e.g., film thickness, coverage). It is written in Python. if you have any questions, please contact: wqk578539223@gmail.com
+XPSquanti is for XPS quantification when one needs to calculate the atomic ratios and thin film related properties (e.g., film thickness, coverage). It has four main functions:
+1. XPS peak fitting (not finished yet)
+2. XPS atomic ratio quantification for thin films and bulk materials
+3. thin film thickness calculation
+4. thin film coverage calculation
+
+It is written in Python. if you have any questions, please contact: wqk578539223@gmail.com
 
 To run this script,
 1. download all the files
@@ -16,7 +22,7 @@ here two methods are included, one (the calculate button) is the general method 
 
 the following is an example of calculating the film thickness based on the model: the thin film is on the bulk surface
 
-![image](https://user-images.githubusercontent.com/42301914/183249882-4217dd3b-3939-4b6a-b97a-bc81308506eb.png)
+![image](https://user-images.githubusercontent.com/42301914/205589997-15b3644a-6cb2-4451-b197-9d2d2dc41c2a.png)
 
 
 
